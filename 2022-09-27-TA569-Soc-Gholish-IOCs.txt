@@ -20,3 +20,7 @@ DOWNLOADED MALWARE:
 - File location: hxxps://dotimewat[.]com/CLFsecurity.exe
 - File type: 64-bit EXE
 - File description: Installer for some sort of malware
+- Analysis: https://app.any.run/tasks/352c8d83-ca70-4037-94d9-b325683844bd
+- Analysis: https://tria.ge/220927-w2r53afcbj
+- Sample available at: https://bazaar.abuse.ch/sample/c13c6fcbe62acb9f57e7b5abc0488100b91a72fb5959d4ffc9a3b1e4a1e48754/
+- Note: Had to zip the EXE because it was too big, when I submitted it to submit to Any.Run and Malware Bazaar
