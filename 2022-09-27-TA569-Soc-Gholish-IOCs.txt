@@ -1,0 +1,22 @@
+2022-09-27 (TUESDAY) - TA569 SOC GHOLISH CAMPAIGN PUSHES UNIDENTIFIED MALWARE
+
+- hxxp://www.[information redacted].com/meet-robert/   <-- page from compromised website
+- hxxp://www.[information redacted].com/wp-includes/js/jquery/jquery.js?ver=.1.12.4-wp   <-- script with link to redirect URL
+- hxxps://skambio-porte[.]com/js1   <-- redirect URL to fake update domain
+- hxxps://yaritsavodka[.]com/   <-- fake update domain
+- hxxps://yaritsavodka[.]com/index-edge.php   <-- fake update page for Microsoft Edge
+- hxxps://dotimewat[.].com/CLFsecurity.exe  <-- file presented by fake update page
+
+Note: The fake update page depends on the browser being used.
+
+- hxxps://yaritsavodka[.]com/index-chrome.php
+- hxxps://yaritsavodka[.]com/index-edge.php
+- hxxps://yaritsavodka[.]com/index-ff.php
+
+DOWNLOADED MALWARE:
+
+- SHA256 hash: 6371d4c28214de1e599caaede658d752e1fbc691019d8ae34c591a7699911814
+- File size: 212,552,264 bytes
+- File location: hxxps://dotimewat[.]com/CLFsecurity.exe
+- File type: 64-bit EXE
+- File description: Installer for some sort of malware
