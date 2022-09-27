@@ -1,4 +1,11 @@
-2022-09-27 (TUESDAY) - TA569 SOC GHOLISH CAMPAIGN PUSHES UNIDENTIFIED MALWARE
+2022-09-27 (TUESDAY) - TA569 SOC GHOLISH CAMPAIGN PUSHES SOLARMARKER
+
+REFERENCES:
+
+- https://twitter.com/SquiblydooBlog/status/1574669745651163137
+- https://twitter.com/malware_traffic/status/1574848307519754242
+
+PATH TO THE MALWARE:
 
 - hxxp://www.[information redacted].com/meet-robert/   <-- page from compromised website
 - hxxp://www.[information redacted].com/wp-includes/js/jquery/jquery.js?ver=.1.12.4-wp   <-- script with link to redirect URL
@@ -13,13 +20,13 @@ Note: The fake update page depends on the browser being used.
 - hxxps://yaritsavodka[.]com/index-edge.php
 - hxxps://yaritsavodka[.]com/index-ff.php
 
-DOWNLOADED MALWARE:
+DOWNLOADED MALWARE (SOLARMARKER):
 
 - SHA256 hash: 6371d4c28214de1e599caaede658d752e1fbc691019d8ae34c591a7699911814
 - File size: 212,552,264 bytes
 - File location: hxxps://dotimewat[.]com/CLFsecurity.exe
 - File type: 64-bit EXE
-- File description: Installer for some sort of malware
+- File description: Installer for SolarMarker malware
 - Analysis: https://app.any.run/tasks/352c8d83-ca70-4037-94d9-b325683844bd
 - Analysis: https://tria.ge/220927-w2r53afcbj
 - Sample available at: https://bazaar.abuse.ch/sample/c13c6fcbe62acb9f57e7b5abc0488100b91a72fb5959d4ffc9a3b1e4a1e48754/
