@@ -2,7 +2,7 @@
 
 email --> zip --> password-protected zip --> extracted ISO image --> VBS runs Qakbot DLL
 
-Password for today's password-protected zip archives: SK11
+Password for today's password-protected zip archives: SK16 (this document originally stated SK11)
 
 NOTE: The following URLs are used to deliver malware.  Investigate at your own risk!
 
