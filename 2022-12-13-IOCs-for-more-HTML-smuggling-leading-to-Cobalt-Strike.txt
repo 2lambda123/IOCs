@@ -5,6 +5,10 @@ REFERENCES:
 - 2022-12-05: https://twitter.com/James_inthe_box/status/1599787857467834368
 - 2022-12-09: https://twitter.com/Unit42_Intel/status/1602715058383065091
 
+NOTES:
+
+- Same IP address for Cobalt Strike C2 server active since as early as 2022-12-05.
+
 INFECTION CHAIN:
 
 - email --> HTML attachment --> downloaded .js file --> HTTP request for Powershell script --> Cobalt Strike C2
